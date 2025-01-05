@@ -8,6 +8,13 @@ Automation Developer from Ukraine (Code/No-Code)
 - 🌱 I’m currently learning Python, Django, Web Scraping
 - 📫 How to reach me: [vlad.tiw27@gmail.com](vlad.tiw27@gmail.com)
 
+### 🌍 Where to find me:
+
+- [LinkedIn](https://linkedin.com/in/tyshchenko-dev)  
+- [Freelancehunt](https://freelancehunt.com/freelancer/tyshchenko_dev.html)  
+- [Kwork](https://kwork.ru/user/tyshchenko_dev)
+
+
 ### 🛠️ Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
