@@ -27,10 +27,3 @@
 ![ZennoPoster](https://img.shields.io/badge/-ZennoPoster-378CE9?style=flat)
 ![Browser Automation Studio](https://img.shields.io/badge/-Browser%20Automation%20Studio-000000?style=flat)
 
-
-
-
-### 🏆 Statistic:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyshchenko-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyshchenko-dev&layout=compact&theme=radical)
