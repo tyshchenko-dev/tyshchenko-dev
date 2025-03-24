@@ -5,7 +5,7 @@
 - 🛠️ I have experience working with no-code automation tools like **ZennoPoster** and **Browser Automation Studio**.  
 - 🤖 My passion is to automate everything possible, from simple tasks to complex processes.  
 - 🚀 In my free time, I explore new technologies, build bots, and push the boundaries of programming possibilities.
-- 🌱 I’m currently learning Python, Django, Web Scraping
+- 🌱 I’m currently learning Python, FastAPI, Web Scraping
 - 📫 How to reach me: [vlad.tiw27@gmail.com](vlad.tiw27@gmail.com)
 
 ### 🌍 Where to find me:
