@@ -13,7 +13,7 @@
 - [LinkedIn](https://linkedin.com/in/tyshchenko-dev)  
 - [Freelancehunt](https://freelancehunt.com/freelancer/tyshchenko_dev.html)  
 - [Kwork](https://kwork.ru/user/tyshchenko_dev)
-- [ZennoLab](https://kwork.ru/user/tyshchenko_dev)
+- [ZennoLab](https://zenno.club/discussion/members/zennocat.46906/)
 
 
 ### 🛠️ Tools:
